@@ -1,1 +1,1 @@
-![[swan_dimensions.svg]]
+!(swan_dimensions.svg)
