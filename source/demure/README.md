@@ -1,4 +1,4 @@
-![alt text](https://github.com/blackarm0815/origami/blob/main/source/demure/demure.jpg "demure")
+![alt text](https://github.com/blackarm0815/origami/blob/main/source/demure/demure.jpg  width="48")
 
 a = 90\
 b = 79\
