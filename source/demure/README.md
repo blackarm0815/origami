@@ -1,4 +1,4 @@
-![alt text](/source/demure/demure.jpg)
+![alt text](/source/demure/demure.jpg) { max-width: 500px; }
 
 a = 90 b = 79\
 c = 55 d = 77\
