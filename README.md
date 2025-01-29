@@ -1,1 +1,1 @@
-# origami
+![[swan_dimensions.svg]]
