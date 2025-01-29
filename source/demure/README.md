@@ -1,5 +1,3 @@
-![alt text](https://github.com/blackarm0815/origami/blob/main/source/demure/demure.jpg)
-
 ![alt text](/source/demure/demure.jpg)
 
 a = 90\
