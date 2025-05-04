@@ -7,7 +7,7 @@
    viewBox="0 0 190 190"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="swan_dimensions_98mm.svg"
    inkscape:export-filename="swan_dimensions.png"
    inkscape:export-xdpi="133.68422"
@@ -27,15 +27,16 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showguides="false"
-     inkscape:zoom="0.73651718"
-     inkscape:cx="319.74814"
-     inkscape:cy="338.07766"
-     inkscape:window-width="2193"
-     inkscape:window-height="853"
+     inkscape:zoom="1.4730344"
+     inkscape:cx="300.06089"
+     inkscape:cy="275.62154"
+     inkscape:window-width="3840"
+     inkscape:window-height="2080"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g1">
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1"
+     showgrid="false">
     <sodipodi:guide
        position="-31.957752,257"
        orientation="0,1"
@@ -292,16 +293,6 @@
            id="path39"
            sodipodi:nodetypes="cc" />
         <path
-           style="fill:#e6e6e6;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
-           d="M 48,114.20528 44.01131,120"
-           id="path40"
-           sodipodi:nodetypes="cc" />
-        <path
-           style="fill:#e6e6e6;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
-           d="m 47.996194,125.79921 -3.986951,-5.80438"
-           id="path41"
-           sodipodi:nodetypes="cc" />
-        <path
            style="fill:#ff0000;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
            d="M 67,110.26646 77,120"
            id="path42"
@@ -332,7 +323,7 @@
              id="tspan44"
              style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-opacity:1"
              x="106.46848"
-             y="29.934422">73.5</tspan></text>
+             y="29.934422">74</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:4.23333px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
@@ -343,7 +334,7 @@
              id="tspan45"
              style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-opacity:1"
              x="106.46723"
-             y="74.803551">73.5</tspan></text>
+             y="74.803551">74</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:4.23333px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
@@ -394,28 +385,6 @@
         <text
            xml:space="preserve"
            style="font-size:4.23333px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
-           x="41.322742"
-           y="112.19534"
-           id="text51"><tspan
-             sodipodi:role="line"
-             id="tspan51"
-             style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-opacity:1"
-             x="41.322742"
-             y="112.19534">20.5</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:4.23333px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
-           x="42.474216"
-           y="130.88597"
-           id="text52"><tspan
-             sodipodi:role="line"
-             id="tspan52"
-             style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-opacity:1"
-             x="42.474216"
-             y="130.88597">20.5</tspan></text>
-        <text
-           xml:space="preserve"
-           style="font-size:4.23333px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
            x="63.462185"
            y="135.80014"
            id="text53"><tspan
@@ -453,24 +422,6 @@
              x="78.172417"
              y="121.591"
              id="tspan55">46</tspan></text>
-        <rect
-           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.086537;stroke-linecap:round;stroke-opacity:1"
-           id="rect55"
-           width="9.279911"
-           height="5.719346"
-           x="34.312817"
-           y="117.0352" />
-        <text
-           xml:space="preserve"
-           style="font-size:4.23333px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
-           x="34.192341"
-           y="121.43587"
-           id="text56"><tspan
-             sodipodi:role="line"
-             style="font-size:4.23333px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-opacity:1"
-             x="34.192341"
-             y="121.43587"
-             id="tspan56">19.5</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:5.64444px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-opacity:1"
@@ -481,7 +432,7 @@
              id="tspan57"
              style="fill:#000000;stroke-width:0.1"
              x="55.150887"
-             y="176.38063">beak measurements are 12 and 9.0 </tspan></text>
+             y="176.38063">beak measurements are 20, 12 and 9 </tspan></text>
       </g>
     </g>
   </g>
