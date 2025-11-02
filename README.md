@@ -1,1 +1,12 @@
-swan pictures contain the dimensions
+37.5
+30.5
+
+49
+36
+
+50
+57
+
+16
+9.5
+7
