@@ -1,1 +1,0 @@
-export to png and print at 85 scale
