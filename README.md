@@ -1,5 +1,9 @@
 inner middle - 38.0
+
 outer middle - 49.5 50.5
+
 inner edge - 31.5
+
 outer edge - 35.0 57.5
+
 head - 16.0 9.5 7.0
