@@ -1,25 +1,9 @@
 70mm
 
-chest middle - 46.2 47.1
+46.0 47.0
 
-chest edge - 33.1 53.7
+33.0 53.5
 
-neck middle - 35.5
+35.5 29.4
 
-neck edge - 29.4
-
-head - 14.9 8.9 6.5
-
-------------------------
-
-75mm
-
-chest middle - 49.5 50.5
-
-chest edge - 35.5 57.5
-
-neck middle - 38.0
-
-neck edge - 31.5
-
-head - 16.0 9.5 7.0
+15.0 9.9 6.5
