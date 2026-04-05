@@ -1,20 +1,19 @@
 70mm
 
+--------------------
 
-angled
+angle center - 46 47
 
-46 47
+angle side - 33 52.5
+      (60) - 7.5 27
 
-33 52.5 (was 53)
+--------------------
 
+straight center - 35.5
 
-square
+straight side - 31
+         (60) - 29
 
-35.5
+---------------------
 
-31
-
-
-head
-
-15 9 7
+head -  15 9 7
