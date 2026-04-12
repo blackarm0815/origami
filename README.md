@@ -2,7 +2,7 @@
 
 --------------------
 
-angle center - 46 47
+angle center - 47
 
 
 angle side - 33 52.5
